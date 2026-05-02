@@ -8,7 +8,7 @@
 
 ## 🌐 Tổng quan | Overview
 
-### **Tiếng Việt:**  
+### 🇻🇳 Tiếng Việt:  
 Pi Network Explorer Tool là công cụ mạnh mẽ giúp:
 - Tra cứu dữ liệu blockchain Pi Network  
 - Kiểm tra ví và giao dịch  
