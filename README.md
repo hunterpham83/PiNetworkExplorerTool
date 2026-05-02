@@ -28,7 +28,7 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 |--------|-----------|-----------------|
 | 🔍 Explorer | Tra cứu giao dịch & block | Transaction & block explorer |
 | 🧠 Recovery | Khôi phục mật khẩu ví PI | Mnemonic recovery |
-| 🔔 Alerts | Cảnh báo Telegram | Telegram alerts |
+| 🔔 Alerts | Cảnh báo vận hành Node qua Telegram | Telegram alerts |
 | ⚡ Performance | Tối ưu tốc độ | High performance |
 
 
