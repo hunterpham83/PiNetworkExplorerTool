@@ -1,39 +1,140 @@
+# 🚀 Pi Network Explorer Tool
 
-# Pi Network Explorer Tool
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-9.0-blue" />
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" />
+  <img src="https://img.shields.io/badge/Build-Stable-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 
-Công cụ này được viết trên nền Microsoft .Net vì thế trước khi chạy cần đảm bảo cài đặt trước môi trường .Net [Đảm bảo cài đủ 2 môi trường dưới đây]:
-- Tải xuống môi trường Net9.0 [tại đây](https://builds.dotnet.microsoft.com/dotnet/aspnetcore/Runtime/9.0.11/aspnetcore-runtime-9.0.11-win-x64.exe)
-- Tải xuống môi trường Visual C++ [Tại đây](https://aka.ms/vc14/vc_redist.x64.exe)
+<p align="center">
+  🔎 Pi Blockchain Explorer • 👛 Wallet Tool • ⚡ High Performance • 🔐 Secure
+</p>
 
-Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới tính hoặc cài lại Windows sẽ có thông báo "Windows protected your PC" lúc này các bạn chọn "More info" bước tiếp theo bấm nút "Run anyway"
+---
 
-## Ghi chú phát hành Pi Network Explorer Tool
+## 🌐 Overview | Tổng quan
 
-### 6.5.2
+**🇻🇳 Tiếng Việt:**  
+Pi Network Explorer Tool là công cụ giúp:
+- Tra cứu dữ liệu blockchain Pi Network  
+- Kiểm tra ví và giao dịch  
+- Giám sát trạng thái Node  
+- Khôi phục mnemonic  
 
-Có gì mới ở phiên bản này:
-- Cải thiện hiệu suất hệ thống
-- Thêm tính năng "Khôi phục mật khẩu ví":
-  - Quên từ 1 đến 2 từ
-  - Sai chính tả
-  - Đảo lộn vị trí
-  
-### 5.12.18
+**🇺🇸 English:**  
+Pi Network Explorer Tool allows you to:
+- Explore Pi blockchain data  
+- Check wallet & transactions  
+- Monitor Node status  
+- Recover mnemonic phrases  
 
-Có gì mới ở phiên bản này:
-- Cải thiện hiệu suất hệ thống
-- Chỉnh sửa thông báo sự cố quá ứng dụng nhắn tin Telegram
+---
 
-### 5.12.12
+## ✨ Features | Tính năng
 
-Có gì mới ở phiên bản này:
-- Cải thiện hiệu suất hệ thống
+- 🔍 Transaction Explorer  
+- 👛 Wallet lookup  
+- 🧠 Mnemonic Recovery  
+- 🔔 Telegram Alerts  
+- ⚡ High Performance  
 
-### 5.8.28
+---
 
-Có gì mới ở phiên bản này:
-- Cải thiện hiệu suất hệ thống
-- Tích hợp thông báo tới Telegram mỗi khi Node có vấn đề cần cảnh báo
+## 🧠 Mnemonic Recovery
+
+**VI:**
+- Thiếu 1–2 từ  
+- Sai chính tả  
+- Sai vị trí từ  
+
+**EN:**
+- Missing 1–2 words  
+- Typo errors  
+- Wrong word order  
+
+---
+
+## ⚙️ System Requirements
+
+- .NET 9.0 Runtime  
+- Visual C++ Redistributable  
+
+Download:
+- https://dotnet.microsoft.com/download  
+- https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist  
+
+---
+
+## 🚀 Getting Started
+
+### ▶️ Run
+
+1. Download release  
+2. Extract  
+3. Run `.exe`  
+
+---
+
+### ⚠️ First Run
+
+If Windows shows:
+
+> Windows protected your PC  
+
+→ Click **More info → Run anyway**
+
+---
+
+## 🔐 Security
+
+- ❌ Do NOT enter private key  
+- ✅ No data stored  
+- 🔒 Open-source for verification  
+
+---
+
+## 📦 Release Notes
+
+### v6.5.2
+- Added mnemonic recovery  
+- Performance improvements  
+
+### v5.12.18
+- Fixed Telegram notifications  
+
+### v5.12.12
+- Performance improvements  
+
+### v5.8.28
+- Added Telegram alerts  
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Auto update  
+- [ ] Multi-language UI  
+- [ ] Web version  
+- [ ] Mobile app  
+
+---
+
+## 👤 Author
+
+Hunter Pham  
+
+---
+
+## ⭐ Support
+
+If useful, please ⭐ the repo!
+
+---
+
+## 📄 License
+
+MIT License
 
 ## Hình ảnh
 
