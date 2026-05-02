@@ -4,7 +4,6 @@
   🔎 Pi Blockchain Explorer • 🔑 Pi Wallet Recovery • ⚡ High Performance • 🔐 Secure
 </p>
 
----
 
 ## 🌐 Tổng quan | Overview
 
@@ -22,7 +21,6 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 - Monitor Pi Node status  
 - Recover mnemonic phrases in error cases  
 
----
 
 ## ✨ Tính năng | Features
 
@@ -33,7 +31,6 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 | 🔔 Alerts | Cảnh báo Telegram | Telegram alerts |
 | ⚡ Performance | Tối ưu tốc độ | High performance |
 
----
 
 ## 🧠 Khôi phục mật khẩu ví | Mnemonic Recovery (Core Feature)
 
@@ -53,7 +50,6 @@ This tool helps **recover Pi Network wallets** in cases:
 
 🔑 Keywords: pi wallet recovery, recover pi passphrase, pi mnemonic tool
 
----
 
 ## ⚙️ Yêu cầu hệ thống | System Requirements
 
@@ -64,11 +60,10 @@ Download:
 - https://dotnet.microsoft.com/download  
 - https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist  
 
----
 
-## 🚀 Khởi chạy chương trình | Getting Started
+## 🚀 Bắt đầu | Getting Started
 
-### ▶️ Run Application
+### ▶️ Khởi chạy chương trình | Run Application
 
 <img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:
 1. Tải bản release  
@@ -80,9 +75,8 @@ Download:
 2. Extract  
 3. Run `.exe`  
 
----
 
-### ⚠️ First Run Warning
+### ⚠️ Cảnh báo khi chạy lần đầu | First Run Warning
 
 If Windows shows:
 
@@ -90,7 +84,6 @@ If Windows shows:
 
 ➡ Click **More info → Run anyway**
 
----
 
 ## 🔐 Bảo mật | Security
 
@@ -103,9 +96,6 @@ If Windows shows:
 - No private key storage  
 - No external data transmission  
 - Verify source code before use  
-
----
-
 
 ## Hình ảnh
 
