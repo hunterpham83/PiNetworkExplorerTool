@@ -1,4 +1,4 @@
-# 🚀 Pi Wallet Recovery Tool (Explorer + Node Monitor)
+# 🚀 Pi Network Explorer Tool
 
 <p align="center">
   🔎 Pi Blockchain Explorer • 🔑 Pi Wallet Recovery • ⚡ High Performance • 🔐 Secure
@@ -37,14 +37,14 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 
 ## 🧠 Khôi phục mật khẩu ví | Mnemonic Recovery (Core Feature)
 
-🇻🇳  
+### <img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:  
 Công cụ hỗ trợ **khôi phục ví Pi Network** trong các trường hợp:
 - Quên từ (1–2 từ)
 - Sai chính tả
 - Sai thứ tự từ
 - Khôi phục bằng public key
 
-🇺🇸  
+### <img src="https://flagcdn.com/w20/us.png"> English:  
 This tool helps **recover Pi Network wallets** in cases:
 - Missing words (1–2 words)
 - Typo errors
@@ -70,12 +70,12 @@ Download:
 
 ### ▶️ Run Application
 
-**VI:**
+<img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:
 1. Tải bản release  
 2. Giải nén  
 3. Chạy file `.exe`  
 
-**EN:**
+<img src="https://flagcdn.com/w20/us.png"> English:
 1. Download release  
 2. Extract  
 3. Run `.exe`  
@@ -94,12 +94,12 @@ If Windows shows:
 
 ## 🔐 Bảo mật | Security
 
-**VI:**
+### <img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:  
 - Không lưu private key  
 - Không gửi dữ liệu ra ngoài  
 - Kiểm tra mã nguồn trước khi dùng  
 
-**EN:**
+### <img src="https://flagcdn.com/w20/us.png"> English:  
 - No private key storage  
 - No external data transmission  
 - Verify source code before use  
