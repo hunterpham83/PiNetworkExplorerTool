@@ -4,6 +4,14 @@
   🔎 Pi Blockchain Explorer • 🔑 Pi Wallet Recovery • ⚡ High Performance • 🔐 Secure
 </p>
 
+## ⚙️ Yêu cầu hệ thống | System Requirements
+
+- .NET 9.0 Runtime  
+- Visual C++ Redistributable  
+
+Download:
+- https://dotnet.microsoft.com/download  
+- https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist  
 
 ## 🌐 Tổng quan | Overview
 
@@ -49,17 +57,6 @@ This tool helps **recover Pi Network wallets** in cases:
 - Recovery using public key
 
 🔑 Keywords: pi wallet recovery, recover pi passphrase, pi mnemonic tool
-
-
-## ⚙️ Yêu cầu hệ thống | System Requirements
-
-- .NET 9.0 Runtime  
-- Visual C++ Redistributable  
-
-Download:
-- https://dotnet.microsoft.com/download  
-- https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist  
-
 
 ## 🚀 Bắt đầu | Getting Started
 
