@@ -1,28 +1,21 @@
 # 🚀 Pi Network Explorer Tool
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-9.0-blue" />
-  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" />
-  <img src="https://img.shields.io/badge/Build-Stable-brightgreen" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
-
-<p align="center">
   🔎 Pi Blockchain Explorer • 👛 Wallet Tool • ⚡ High Performance • 🔐 Secure
 </p>
 
 ---
 
-## 🌐 Overview | Tổng quan
+## 🌐 Tổng quan | Overview
 
-**🇻🇳 Tiếng Việt:**  
+**Tiếng Việt:**  
 Pi Network Explorer Tool là công cụ mạnh mẽ giúp:
 - Tra cứu dữ liệu blockchain Pi Network  
 - Kiểm tra ví và giao dịch  
 - Giám sát trạng thái Pi Node  
 - Khôi phục mnemonic trong các trường hợp lỗi  
 
-**🇺🇸 English:**  
+**English:**  
 Pi Network Explorer Tool is a powerful utility that allows you to:
 - Explore Pi Network blockchain data  
 - Check wallet and transactions  
@@ -31,19 +24,18 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 
 ---
 
-## ✨ Features | Tính năng
+## ✨ Tính năng | Features
 
 | Feature | Mô tả (VI) | Description (EN) |
 |--------|-----------|-----------------|
 | 🔍 Explorer | Tra cứu giao dịch & block | Transaction & block explorer |
-| 👛 Wallet | Kiểm tra số dư & lịch sử | Wallet balance & history |
 | 🧠 Recovery | Khôi phục mnemonic | Mnemonic recovery |
 | 🔔 Alerts | Cảnh báo Telegram | Telegram alerts |
 | ⚡ Performance | Tối ưu tốc độ | High performance |
 
 ---
 
-## 🧠 Mnemonic Recovery (Core Feature)
+## 🧠 Khôi phục mật khẩu ví | Mnemonic Recovery (Core Feature)
 
 **VI:**  
 Hỗ trợ khôi phục cụm từ ví khi:
@@ -52,7 +44,7 @@ Hỗ trợ khôi phục cụm từ ví khi:
 - Sai vị trí từ  
 - Tối ưu bằng public key  
 
-**EN:**  
+**English:**  
 Supports recovery when:
 - Missing 1–2 words  
 - Typo errors  
@@ -61,15 +53,7 @@ Supports recovery when:
 
 ---
 
-## 🖥️ Demo | Giao diện
-
-> (Thêm ảnh vào: /docs/demo.png)
-
-![Demo UI](docs/demo.png)
-
----
-
-## ⚙️ System Requirements | Yêu cầu hệ thống
+## ⚙️ Yêu cầu hệ thống | System Requirements
 
 - .NET 9.0 Runtime  
 - Visual C++ Redistributable  
@@ -80,7 +64,7 @@ Download:
 
 ---
 
-## 🚀 Getting Started | Bắt đầu
+## 🚀 Khởi chạy chương trình | Getting Started
 
 ### ▶️ Run Application
 
@@ -106,7 +90,7 @@ If Windows shows:
 
 ---
 
-## 🔐 Security | Bảo mật
+## 🔐 Bảo mật | Security
 
 **VI:**
 - Không lưu private key  
@@ -119,8 +103,6 @@ If Windows shows:
 - Verify source code before use  
 
 ---
-
-## 🏗️ Architecture | Kiến trúc
 
 
 ## Hình ảnh
