@@ -27,7 +27,7 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 | Feature | Mô tả (VI) | Description (EN) |
 |--------|-----------|-----------------|
 | 🔍 Explorer | Tra cứu giao dịch & block | Transaction & block explorer |
-| 🧠 Recovery | Khôi phục mnemonic | Mnemonic recovery |
+| 🧠 Recovery | Khôi phục mật khẩu ví | Mnemonic recovery |
 | 🔔 Alerts | Cảnh báo Telegram | Telegram alerts |
 | ⚡ Performance | Tối ưu tốc độ | High performance |
 
@@ -68,12 +68,12 @@ Download:
 <img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:
 1. Tải bản release  
 2. Giải nén  
-3. Chạy file `.exe`  
+3. Chạy file `Pi Network Explorer Tool.exe`  
 
 <img src="https://flagcdn.com/w20/us.png"> English:
 1. Download release  
 2. Extract  
-3. Run `.exe`  
+3. Run `Pi Network Explorer Tool.exe`  
 
 
 ### ⚠️ Cảnh báo khi chạy lần đầu | First Run Warning
