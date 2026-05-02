@@ -16,46 +16,60 @@
 ## 🌐 Overview | Tổng quan
 
 **🇻🇳 Tiếng Việt:**  
-Pi Network Explorer Tool là công cụ giúp:
+Pi Network Explorer Tool là công cụ mạnh mẽ giúp:
 - Tra cứu dữ liệu blockchain Pi Network  
 - Kiểm tra ví và giao dịch  
-- Giám sát trạng thái Node  
-- Khôi phục mnemonic  
+- Giám sát trạng thái Pi Node  
+- Khôi phục mnemonic trong các trường hợp lỗi  
 
 **🇺🇸 English:**  
-Pi Network Explorer Tool allows you to:
-- Explore Pi blockchain data  
-- Check wallet & transactions  
-- Monitor Node status  
-- Recover mnemonic phrases  
+Pi Network Explorer Tool is a powerful utility that allows you to:
+- Explore Pi Network blockchain data  
+- Check wallet and transactions  
+- Monitor Pi Node status  
+- Recover mnemonic phrases in error cases  
 
 ---
 
 ## ✨ Features | Tính năng
 
-- 🔍 Transaction Explorer  
-- 👛 Wallet lookup  
-- 🧠 Mnemonic Recovery  
-- 🔔 Telegram Alerts  
-- ⚡ High Performance  
+| Feature | Mô tả (VI) | Description (EN) |
+|--------|-----------|-----------------|
+| 🔍 Explorer | Tra cứu giao dịch & block | Transaction & block explorer |
+| 👛 Wallet | Kiểm tra số dư & lịch sử | Wallet balance & history |
+| 🧠 Recovery | Khôi phục mnemonic | Mnemonic recovery |
+| 🔔 Alerts | Cảnh báo Telegram | Telegram alerts |
+| ⚡ Performance | Tối ưu tốc độ | High performance |
 
 ---
 
-## 🧠 Mnemonic Recovery
+## 🧠 Mnemonic Recovery (Core Feature)
 
-**VI:**
+**VI:**  
+Hỗ trợ khôi phục cụm từ ví khi:
 - Thiếu 1–2 từ  
 - Sai chính tả  
 - Sai vị trí từ  
+- Tối ưu bằng public key  
 
-**EN:**
+**EN:**  
+Supports recovery when:
 - Missing 1–2 words  
 - Typo errors  
 - Wrong word order  
+- Optimized using public key  
 
 ---
 
-## ⚙️ System Requirements
+## 🖥️ Demo | Giao diện
+
+> (Thêm ảnh vào: /docs/demo.png)
+
+![Demo UI](docs/demo.png)
+
+---
+
+## ⚙️ System Requirements | Yêu cầu hệ thống
 
 - .NET 9.0 Runtime  
 - Visual C++ Redistributable  
@@ -66,75 +80,48 @@ Download:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started | Bắt đầu
 
-### ▶️ Run
+### ▶️ Run Application
 
+**VI:**
+1. Tải bản release  
+2. Giải nén  
+3. Chạy file `.exe`  
+
+**EN:**
 1. Download release  
 2. Extract  
 3. Run `.exe`  
 
 ---
 
-### ⚠️ First Run
+### ⚠️ First Run Warning
 
 If Windows shows:
 
 > Windows protected your PC  
 
-→ Click **More info → Run anyway**
+➡ Click **More info → Run anyway**
 
 ---
 
-## 🔐 Security
+## 🔐 Security | Bảo mật
 
-- ❌ Do NOT enter private key  
-- ✅ No data stored  
-- 🔒 Open-source for verification  
+**VI:**
+- Không lưu private key  
+- Không gửi dữ liệu ra ngoài  
+- Kiểm tra mã nguồn trước khi dùng  
 
----
-
-## 📦 Release Notes
-
-### v6.5.2
-- Added mnemonic recovery  
-- Performance improvements  
-
-### v5.12.18
-- Fixed Telegram notifications  
-
-### v5.12.12
-- Performance improvements  
-
-### v5.8.28
-- Added Telegram alerts  
+**EN:**
+- No private key storage  
+- No external data transmission  
+- Verify source code before use  
 
 ---
 
-## 🗺️ Roadmap
+## 🏗️ Architecture | Kiến trúc
 
-- [ ] Auto update  
-- [ ] Multi-language UI  
-- [ ] Web version  
-- [ ] Mobile app  
-
----
-
-## 👤 Author
-
-Hunter Pham  
-
----
-
-## ⭐ Support
-
-If useful, please ⭐ the repo!
-
----
-
-## 📄 License
-
-MIT License
 
 ## Hình ảnh
 
