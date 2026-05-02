@@ -1,4 +1,7 @@
-# 🚀 Pi Network Explorer Tool
+# 🚀 Pi Network Explorer Tool | Pi Wallet Recovery & Blockchain Explorer
+## 🔎 Keywords
+
+Pi Network wallet recovery, Pi wallet, recover Pi passphrase, Pi mnemonic recovery, Pi blockchain explorer, Pi Node monitor
 
 <p align="center">
   🔎 Pi Blockchain Explorer • 👛 Wallet Tool • ⚡ High Performance • 🔐 Secure
@@ -37,19 +40,21 @@ Pi Network Explorer Tool is a powerful utility that allows you to:
 
 ## 🧠 Khôi phục mật khẩu ví | Mnemonic Recovery (Core Feature)
 
-**VI:**  
-Hỗ trợ khôi phục cụm từ ví khi:
-- Thiếu 1–2 từ  
-- Sai chính tả  
-- Sai vị trí từ  
-- Tối ưu bằng public key  
+🇻🇳  
+Công cụ hỗ trợ **khôi phục ví Pi Network** trong các trường hợp:
+- Quên từ (1–2 từ)
+- Sai chính tả
+- Sai thứ tự từ
+- Khôi phục bằng public key
 
-**English:**  
-Supports recovery when:
-- Missing 1–2 words  
-- Typo errors  
-- Wrong word order  
-- Optimized using public key  
+🇺🇸  
+This tool helps **recover Pi Network wallets** in cases:
+- Missing words (1–2 words)
+- Typo errors
+- Incorrect word order
+- Recovery using public key
+
+🔑 Keywords: pi wallet recovery, recover pi passphrase, pi mnemonic tool
 
 ---
 
@@ -114,4 +119,13 @@ If Windows shows:
 ![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/config.jpg)
 ![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/charblock.jpg)
 ![App Screenshot](https://github.com/hunterpham83/PiNetworkExploreTool/blob/main/Screenshots/listnode.jpg)
+
+## 🔍 SEO Keywords
+
+Pi wallet  
+Pi Network wallet  
+Recover Pi wallet  
+Pi passphrase recovery  
+Pi mnemonic recovery tool  
+Pi blockchain explorer  
 
