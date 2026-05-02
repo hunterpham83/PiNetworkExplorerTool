@@ -9,6 +9,15 @@ Lưu ý: Nếu là lần đầu chạy trên một máy tính nào đó mới t�
 
 ## Ghi chú phát hành Pi Network Explorer Tool
 
+### 6.5.2
+
+Có gì mới ở phiên bản này:
+- Cải thiện hiệu suất hệ thống
+- Thêm tính năng "Khôi phục mật khẩu ví":
+  - Quên từ 1 đến 2 từ
+  - Sai chính tả
+  - Đảo lộn vị trí
+  
 ### 5.12.18
 
 Có gì mới ở phiên bản này:
@@ -19,8 +28,6 @@ Có gì mới ở phiên bản này:
 
 Có gì mới ở phiên bản này:
 - Cải thiện hiệu suất hệ thống
-- Thêm tính năng "Khôi phục mật khẩu ví" có giới hạn
-- Thêm tính năng "Chuyển khoản PI" tự động thực hiện hoặc thủ công khi có dấu hiệu lộ cụm mật khẩu ví
 
 ### 5.8.28
 
