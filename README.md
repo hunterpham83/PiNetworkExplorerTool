@@ -1,21 +1,21 @@
-# 🚀 Pi Network Explorer Tool | Pi Wallet Recovery & Blockchain Explorer
+# 🚀 Pi Wallet Recovery Tool (Explorer + Node Monitor)
 
 <p align="center">
-  🔎 Pi Blockchain Explorer • 👛 Wallet Tool • ⚡ High Performance • 🔐 Secure
+  🔎 Pi Blockchain Explorer • 🔑 Pi Wallet Recovery • ⚡ High Performance • 🔐 Secure
 </p>
 
 ---
 
 ## 🌐 Tổng quan | Overview
 
-### 🇻🇳 Tiếng Việt:  
+### <img src="https://flagcdn.com/w20/vn.png"> Tiếng Việt:  
 Pi Network Explorer Tool là công cụ mạnh mẽ giúp:
 - Tra cứu dữ liệu blockchain Pi Network  
 - Kiểm tra ví và giao dịch  
 - Giám sát trạng thái Pi Node  
 - Khôi phục mnemonic trong các trường hợp lỗi  
 
-### **English:**  
+### <img src="https://flagcdn.com/w20/us.png"> English:  
 Pi Network Explorer Tool is a powerful utility that allows you to:
 - Explore Pi Network blockchain data  
 - Check wallet and transactions  
