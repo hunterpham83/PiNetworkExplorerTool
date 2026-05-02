@@ -1,7 +1,4 @@
 # 🚀 Pi Network Explorer Tool | Pi Wallet Recovery & Blockchain Explorer
-## 🔎 Keywords
-
-Pi Network wallet recovery, Pi wallet, recover Pi passphrase, Pi mnemonic recovery, Pi blockchain explorer, Pi Node monitor
 
 <p align="center">
   🔎 Pi Blockchain Explorer • 👛 Wallet Tool • ⚡ High Performance • 🔐 Secure
