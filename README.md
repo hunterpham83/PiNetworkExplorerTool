@@ -20,7 +20,7 @@ Pi Network Explorer Tool là công cụ mạnh mẽ giúp:
 - Tra cứu dữ liệu blockchain Pi Network  
 - Kiểm tra ví và giao dịch  
 - Giám sát trạng thái Pi Node  
-- Khôi phục mnemonic trong các trường hợp lỗi  
+- Khôi phục cụm mật khẩu trong các trường hợp lỗi  
 
 ### <img src="https://flagcdn.com/w20/us.png"> English:  
 Pi Network Explorer Tool is a powerful utility that allows you to:
