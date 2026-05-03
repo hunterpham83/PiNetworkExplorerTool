@@ -10,7 +10,7 @@
 - Visual C++ Redistributable  
 
 Download:
-- https://dotnet.microsoft.com/download  [.NET Desktop Runtime x64]
+- [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  [.NET Desktop Runtime x64]
 - https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist  
 
 ## 🌐 Tổng quan | Overview
