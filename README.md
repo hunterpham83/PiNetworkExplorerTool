@@ -6,7 +6,7 @@
 
 ## ⚙️ Yêu cầu hệ thống | System Requirements
 
-- .NET 9.0 Runtime  
+- .NET 9.0 Runtime [.NET Desktop Runtime x64]
 - Visual C++ Redistributable  
 
 Download:
